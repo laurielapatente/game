@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <script src="https://cdn.jsdelivr.net/npm/phaser@3.15.1/dist/phaser-arcade-physics.min.js"></script>
+</head>
+
+<body>
+
+    <script>
+        console.log("is it working");
+
+        var randomNumber = getRandomInt(3);
+        var questionNumber = randomNumber+1;
+        console.log(questionNumber);
+
+        if(questionNumber===1){
+            console.log("premiere questions");
+        }
+
+        if(questionNumber===3){
+            console.log("premiere questions");
+        }
+
+        if(questionNumber===2){
+            console.log("deuxieme questions");
+        }
+
+        function getRandomInt(max) {
+            return Math.floor(Math.random() * Math.floor(max));
+        }
+    </script>
+
+</body>
+
+</html>
