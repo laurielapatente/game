@@ -1,17 +1,30 @@
-pour installer logiciel 
+# Projet Game
+
+## Note pour utiliser et programmer le logiciel
+
+## pour installer logiciel
+
 npm install
 
-pour partir serveur
+## pour partir serveur
+
 node server.js
 
-langage untilise pour ce programm
+## langage utilise pour ce programm
+
 javascript
 
-librairie 
+## librairie
+
 phaser
 
-buzzwords
-var = variable ==> contenant,chiffres,lettres
-fonction=réutiliser du code,appelage d'autres fonctions
-random=fonction dans la librairie mathémathique qui permet d'avoir du hazard
-if= tester une condidion,executer une commande
+## Concepts / buzzwords
+
+- var = variable ==> contenant,chiffres,lettres
+  
+- fonction=réutiliser du code,appelage d'autres fonctions
+  
+- random=fonction dans la librairie mathémathique qui permet d'avoir du hazard
+  
+- if= tester une condidion,executer une commande
+  
